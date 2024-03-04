@@ -14,7 +14,7 @@
   
      print_array(array, n); 
      printf("\n"); 
-     heap_sort(array, n); 
+     quick_sort_hoare(array, n); 
      printf("\n"); 
      print_array(array, n); 
      return (0); 
